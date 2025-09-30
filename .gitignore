@@ -416,3 +416,60 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Stata specific files
+*.log
+*.smcl
+*.gph
+*.xlsx
+*.xls
+*.dta
+*.dta.md5
+*.dtasym
+*.mp4
+*.png
+*.stbcal
+*.sthlp
+*.stpr
+*.stsem
+*.sttoc
+*.sty
+*.swp
+*.tmp
+*.txt
+_region*.png
+Stata.Console.history
+stata.trk
+
+# Stata temp files
+*.tmp
+*.TMP
+
+# Dataset files (uncomment if you want to exclude source data)
+#*.dta
+#*.csv
+#*.xlsx
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*_backup/
+backup/
+
+# Log files (you might want to keep these for reproducibility)
+#*.log
