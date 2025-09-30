@@ -15,7 +15,7 @@
 // =============================================================================
 
 // Setup
-version 17.0
+version 19.0
 clear all
 set more off
 capture log close
