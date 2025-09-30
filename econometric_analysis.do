@@ -7,7 +7,7 @@
 // =============================================================================
 // Econometric Analysis: Housing Markets & Wage Determinants
 // Author: Babatunde Fati
-// Date: [Current Date]
+// Date: 09/30/2025
 // 
 // Project Description:
 // This script performs econometric analysis on housing prices and wage determinants
